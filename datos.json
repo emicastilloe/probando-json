@@ -1,7 +1,7 @@
 [
     {
         "nombre": "harry potter y la piedra filosofal",
-        "fotos": [ "https://es.web.img2.acsta.net/pictures/14/04/30/11/55/592219.jpg"],
+        "fotos": ["https://es.web.img2.acsta.net/pictures/14/04/30/11/55/592219.jpg", "https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310"],
         "soporte": "primera pelicula",
         "abstract": "informacion sobre la primera película",
         "texto": "En esta primera película, Harry Potter, de once años, descubre que es un mago y que debe ir a Hogwarts a comenzar sus estudios de hechicería y magia, pero su talento no viene solo, se acompaña de una maldición que lo dejará atado a Lord Voldemort, quien buscará su muerte hasta el final de la historia."
