@@ -8,7 +8,7 @@
     },
     {
         "nombre": "harry potter y la camara secreta",
-        "fotos": ["https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310"],
+        "fotos": ["https://pbs.twimg.com/media/E1JhPA4XoAEeS93.jpg", "https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310"],
         "soporte": "segunda pelicula",
         "abstract": "informacion sobre la segunda pelicula",
         "texto": "La historia sigue el segundo año de Harry Potter en Hogwarts, cuando el heredero de Salazar Slytherin abre la cámara secreta, liberando a un monstruo mortífero que petrifica a los alumnos del colegio."
